@@ -1,4 +1,3 @@
-test
 
 # Welcome to GitHub
 
